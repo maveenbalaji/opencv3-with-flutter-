@@ -45,8 +45,10 @@ Take or Select Images:
 
 Use the "Camera" option to take a picture.
 
-![IMG-20240905-WA0018 1](https://github.com/user-attachments/assets/993a6de8-ec6f-4a8c-81a6-02dc679e0243)
-
 Use the "Gallery" option to select an image from your device’s gallery.
+
 Match Images: Once two images are selected, the app will automatically compare them and display the result.
+
 Result: The app will show "Image Matched" if the images are identical.
+
+![IMG-20240905-WA0018 1](https://github.com/user-attachments/assets/993a6de8-ec6f-4a8c-81a6-02dc679e0243)
