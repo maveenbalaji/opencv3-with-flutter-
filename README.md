@@ -32,7 +32,7 @@ The Image Matching App is a Flutter-based mobile application that allows users t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/maveenbalaji/opencv3-with-flutter-
+   git clone https://github.com/maveenbalaji/opencv3-with-flutter-.git
    ```
 
 2. Navigate to the project directory:
