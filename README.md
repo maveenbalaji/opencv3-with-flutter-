@@ -51,4 +51,6 @@ Match Images: Once two images are selected, the app will automatically compare t
 
 Result: The app will show "Image Matched" if the images are identical.
 
+
+
 ![IMG-20240905-WA0018 1](https://github.com/user-attachments/assets/993a6de8-ec6f-4a8c-81a6-02dc679e0243)
